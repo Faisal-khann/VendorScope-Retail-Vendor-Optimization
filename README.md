@@ -2,6 +2,9 @@
 
 <em>Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using **SQL**, **Python**, and **Power BI**.</em>
 
+[![View Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Click_Here-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMDkzMGFiNGUtODMxZS00M2RhLTk2MDgtN2JkZWQzZjc2OGMzIiwidCI6IjQyYjUxMzUzLTZhMzctNDA5Zi1hMmZlLTc3OGE5YmUzMTllNCJ9)
+
+
 ---
 
 ## 📌 Table of Contents
